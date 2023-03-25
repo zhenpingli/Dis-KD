@@ -1,5 +1,5 @@
-"""
-# Discriminator enhanced Knowledge Distillation Networks
+```
+Discriminator enhanced Knowledge Distillation Networks
 
 
 To run the code please follow:
@@ -14,5 +14,4 @@ python main.py \
     --data_file data/binarized_text.gpt2.pickle \
     --token_counts data/token_counts.gpt2.pickle \
     --force 
-
-"""
+```
