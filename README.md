@@ -19,3 +19,15 @@ python main.py \
     --token_counts data/token_counts.gpt2.pickle \
     --force 
 ```
+The conda env is DisGan.yaml you can use conda to export the env.
+
+The model's trained parameters can be donwnload here:
+
+链接: 
+
+https://pan.baidu.com/s/1eB0qeQYQDWC104SZaoVGaw?pwd=ug3m 
+
+提取码: ug3m 
+
+
+--来自百度网盘超级会员v6的分享
