@@ -1,9 +1,9 @@
-```
-Discriminator enhanced Knowledge Distillation Networks
+
+## Discriminator enhanced Knowledge Distillation Networks
 
 
 To run the code please follow:
-
+```
 python main.py \
     --student_type gpt2 \
     --student_config /home/Gan-Distill/config2.json \
