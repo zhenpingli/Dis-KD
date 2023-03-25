@@ -1,6 +1,8 @@
 
 ## Discriminator enhanced Knowledge Distillation Networks
 
+I have a follow good cloud service code if you want to start the environment directly. I can give you my account number.
+Email li_zhenping@126.com
 
 To run the code please follow:
 ```
